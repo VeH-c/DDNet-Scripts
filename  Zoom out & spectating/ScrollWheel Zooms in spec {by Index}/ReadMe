@@ -1,0 +1,5 @@
+ScrollWheel Zooms when it Spectator Mode
+
+To initiate: bind p exec SpecZoom.cfg, then use P in-game to toggle it on & off.
+
+to work around the reverse issue bind shift+p "exec WheelZoomReset.cfg" & use SHIFT+P in game to reset back to normal.

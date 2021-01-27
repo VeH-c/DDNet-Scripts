@@ -1,3 +1,5 @@
-Use your arrow keys for going through walls in city mode ( say /right, etc) or toggle using x for rcon mode (rcon right, etc). 
+Use your arrow keys for going through walls in city mode ( say /right, etc) or toggle using x for rcon mode (rcon right, etc).
 
 To initiate: exec rcon_move.cfg, then use X in-game to toggle it on & off.
+
+Credits: fokkonaut // https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=553
