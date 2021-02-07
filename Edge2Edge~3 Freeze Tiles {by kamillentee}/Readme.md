@@ -4,6 +4,8 @@ If you stand on edge and want to jump to the right side with the decimal places 
 
 Because 0.16 and 0.81 are very near to the freeze you can fail the jump sometimes. To prevent this use this config bind that presses jump and direction key at the same time.
 
+There are 4 more coordinates per side x.56 x.69 x.72 and x.84 for >>> direction and x.41 x.28 x.25 and x.12 for <<<< direction. For those you jump and one tile above ground you use dj and direction key/bind.
+
 Use bind x exec edgejump.cfg to bind it to a key.
 Press x another time to use normal arrow keys again
 
